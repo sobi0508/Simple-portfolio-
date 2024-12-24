@@ -1,0 +1,68 @@
+img{
+  width:100px; height:100px;
+  
+}
+.section_two{
+  width: 100px;
+  background-color:red; color: black;
+  display: inline-block;
+  
+  padding: 50px;
+  border: solid black 5px;
+  
+  
+}
+.section_one{
+  background-color: black;color: white;
+  
+  Padding-buttom: 20px;
+  padding-top: 20px;
+  font-size: 30px;
+}
+.section_three{
+  background-color: gray;color: black;
+  
+  width: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:  50px;
+  border : solid black 5px;
+  
+  
+  
+}
+.section_four{
+  background-color: violet;color: black;
+  display: inline-block;text-align: center;
+  width: 100px;padding: 50px;
+  border: solid black 5px;
+}
+.section_five{
+  background-color: yellow;color: black;
+  width: 100px;padding: 50px;
+  display: inline-block;text-align: center;
+  border: solid black 5px;
+}
+
+.contact_one_send{
+  padding-left: 20px; padding-right: 20px;
+  width: 300px;
+  background-color: red;
+}
+.contact_form{
+  background-color: blue; color: black;
+  
+}
+*{
+  text-align: center;
+}
+.contact_one{
+  
+  padding-left: 300px;
+  font-size: 30px;
+}
+h3{
+  color: darkmagenta;
+  
+}
+
