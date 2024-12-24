@@ -22,4 +22,4 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 
 *Acknowledgments*
 
-- [Your Name] - Developer and Designer
+- [Sobiya] - Developer and Designer
